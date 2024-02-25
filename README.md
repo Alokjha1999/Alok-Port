@@ -8,8 +8,7 @@ In the project directory, you can run:
 
 ### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3002](http://localhost:3002) to view it in your browser.
+ http://localhost:51184  
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
